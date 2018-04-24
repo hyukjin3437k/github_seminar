@@ -3,4 +3,4 @@
 
 * [권혁진](https://github.com/hyukjin1)
 
-edit Text 
+* [김경수](https://github.com/insort)
