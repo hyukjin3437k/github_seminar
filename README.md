@@ -4,3 +4,5 @@
 * [권혁진](https://github.com/hyukjin1)
 
 * [김경수](https://github.com/insort)
+
+* [김인아](https://github.com/insort)
